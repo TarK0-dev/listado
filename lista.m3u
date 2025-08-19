@@ -245,13 +245,16 @@ http://esfamous.top:8080/es3391731167401001/cb581f7be19d/316
 http://esfamous.top:8080/es3391731167401001/cb581f7be19d/317
 #EXTINF:-1 tvg-id="" tvg-name="ES: BETIS TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BETISTV.png" group-title="DEPORTES",ES: BETIS TV
 http://esfamous.top:8080/es3391731167401001/cb581f7be19d/318
-#EXTINF:-1 tvg-id="" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN LALIGA",ES: (HD) DAZN LALIGA
-http://esfamous.top:8080/es3391731167401001/cb581f7be19d/391
-#EXTINF:-1 tvg-id="" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN LALIGA",ES: (HD REPUESTO) DAZN LALIGA
-http://esfamous.top:8080/es3391731167401001/cb581f7be19d/393
-#EXTINF:-1 tvg-id="" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN LALIGA",ES: (FHD) DAZN LALIGA
-http://esfamous.top:8080/es3391731167401001/cb581f7be19d/392
-#EXTINF:-1 tvg-id="" tvg-name="ES: (FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN LALIGA",ES: (FHD REPUESTO) DAZN LALIGA
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LA LIGA ʰᵉᵛᶜ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="★ DAZN LALIGA ★",DAZN LA LIGA ʰᵉᵛᶜ
+http://toda.la.razon.angel.spaniptv.giize.com:8080/DAVIDFERRER/RdfxrgRW4SdH/322
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LA LIGA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="★ DAZN LALIGA ★",DAZN LA LIGA FHD
+http://toda.la.razon.angel.spaniptv.giize.com:8080/DAVIDFERRER/RdfxrgRW4SdH/323
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LA LIGA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="★ DAZN LALIGA ★",DAZN LA LIGA HD
+http://toda.la.razon.angel.spaniptv.giize.com:8080/DAVIDFERRER/RdfxrgRW4SdH/324
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LA LIGA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="★ DAZN LALIGA ★",DAZN LA LIGA SD
+http://toda.la.razon.angel.spaniptv.giize.com:8080/DAVIDFERRER/RdfxrgRW4SdH/325
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LA LIGA SD ( Móvil )" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="★ DAZN LALIGA ★",DAZN LA LIGA SD ( Móvil )
+http://toda.la.razon.angel.spaniptv.giize.com:8080/DAVIDFERRER/RdfxrgRW4SdH/51916
 http://esfamous.top:8080/es3391731167401001/cb581f7be19d/394
 #EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="DAZN LALIGA",ES: DAZN LALIGA 2
 http://esfamous.top:8080/es3391731167401001/cb581f7be19d/395
